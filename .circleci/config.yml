@@ -1,4 +1,4 @@
-version: '3'
+version: 3
 jobs: 
   build:
     working_directory: ~/circleci-python
